@@ -18,7 +18,3 @@
 </table>
 <div align="center"><img src="https://raw.githubusercontent.com/Szeto7/Szeto7/refs/heads/output/github-snake.svg" ></div>
 
-## 📝 Blog
-
-- [Quantumult X 配置2.0(小白版)](https://github.com/Feizongg/QX)
-
